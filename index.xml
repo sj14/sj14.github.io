@@ -6,9 +6,55 @@
     <description>Recent content on Simon Jürgensmeyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</managingEditor>
+    <webMaster>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</webMaster>
+    <lastBuildDate>Sat, 17 Feb 2018 10:13:20 +0100</lastBuildDate>
     
 	<atom:link href="https://sj14.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anomaly Detection in Time Series</title>
+      <link>https://sj14.github.io/post/anomaly-detection/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:20 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/post/anomaly-detection/</guid>
+      <description>Description
+The research goal of my master thesis was to find real-time capable solutions to automatically detect anomalies in time series data streams, which are especially useful to monitor servers. I evaluated several algorithms and finally ensembled an own algorithm which meets almost all of the previously gathered requirements.
+In the figure, you can see a collection of outliers, the algorithm is so good, it is even hard to see the anomaly behind all the true positives (green dots) ;-) At the beginning of the measurements, there are two false positives (red dots)</description>
+    </item>
+    
+    <item>
+      <title>Computer Algebra System</title>
+      <link>https://sj14.github.io/post/computer-algebra/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:19 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/post/computer-algebra/</guid>
+      <description>Description
+It was time for my bachelor thesis and I was thinking about the topic. At this time I was totally hyped by Go (and I&amp;rsquo;m still), so I wanted to find something related. As I am always curious how things work, I wanted to research a calculator with simple algebraic operations and a web interface based on Bootstrap. Of course, this was highly inspired by all students favourite Wolfram Alpha ;-)</description>
+    </item>
+    
+    <item>
+      <title>Notification To Speech</title>
+      <link>https://sj14.github.io/post/notification-to-speech/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:18 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/post/notification-to-speech/</guid>
+      <description>Description
+At the very beginning of my CS studies, I played a bit with Android development. You achieve the most learning when you are interested in the stuff you are doing or you have own requirements. My motivation was to write an app, which can speak out incoming notifications. As a text-to-speech engine was already built into Android (e.g. navigation directions), I thought this was a challenging but possible project.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sj14.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/page/about/</guid>
+      <description>About Me Hi, I&amp;rsquo;m Simon, a passionate software developer from Germany. I love programming with Go and playing with Unix-like operating systems.
+I will use this blog to show some of my projects. Maybe I will add some small tutorials or findings later on &amp;ndash; when I find some time between all my work ;-)
+Curriculum Vitae University Mar. 2016 - Jan. 2018 Rhein-Waal University of Applied Sciences
+Information Engineering &amp;amp; Computer Science</description>
+    </item>
     
   </channel>
 </rss>

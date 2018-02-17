@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time Series on Simon Jürgensmeyer</title>
+    <link>https://sj14.github.io/tags/time-series/</link>
+    <description>Recent content in Time Series on Simon Jürgensmeyer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</managingEditor>
+    <webMaster>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</webMaster>
+    <lastBuildDate>Sat, 17 Feb 2018 10:13:20 +0100</lastBuildDate>
+    
+	<atom:link href="https://sj14.github.io/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anomaly Detection in Time Series</title>
+      <link>https://sj14.github.io/post/anomaly-detection/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:20 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/post/anomaly-detection/</guid>
+      <description>Description
+The research goal of my master thesis was to find real-time capable solutions to automatically detect anomalies in time series data streams, which are especially useful to monitor servers. I evaluated several algorithms and finally ensembled an own algorithm which meets almost all of the previously gathered requirements.
+In the figure, you can see a collection of outliers, the algorithm is so good, it is even hard to see the anomaly behind all the true positives (green dots) ;-) At the beginning of the measurements, there are two false positives (red dots)</description>
+    </item>
+    
+  </channel>
+</rss>

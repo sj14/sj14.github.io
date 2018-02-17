@@ -6,9 +6,147 @@
     <description>Recent content in Tags on Simon Jürgensmeyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</managingEditor>
+    <webMaster>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</webMaster>
+    <lastBuildDate>Sat, 17 Feb 2018 10:13:18 +0100</lastBuildDate>
     
 	<atom:link href="https://sj14.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Android</title>
+      <link>https://sj14.github.io/tags/android/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:18 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection</title>
+      <link>https://sj14.github.io/tags/anomaly-detection/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:20 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/tags/anomaly-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>https://sj14.github.io/tags/bootstrap/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:19 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Algebra System</title>
+      <link>https://sj14.github.io/tags/computer-algebra-system/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:19 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/tags/computer-algebra-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://sj14.github.io/tags/docker/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:20 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://sj14.github.io/tags/go/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:19 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influxdb</title>
+      <link>https://sj14.github.io/tags/influxdb/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:20 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/tags/influxdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://sj14.github.io/tags/java/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:18 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kapacitor</title>
+      <link>https://sj14.github.io/tags/kapacitor/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:20 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/tags/kapacitor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keras</title>
+      <link>https://sj14.github.io/tags/keras/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:20 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://sj14.github.io/tags/project/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:20 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://sj14.github.io/tags/python/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:20 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real Time</title>
+      <link>https://sj14.github.io/tags/real-time/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:20 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/tags/real-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>https://sj14.github.io/tags/tensorflow/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:20 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series</title>
+      <link>https://sj14.github.io/tags/time-series/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:20 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/tags/time-series/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

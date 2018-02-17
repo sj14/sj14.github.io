@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Simon Jürgensmeyer</title>
+    <link>https://sj14.github.io/tags/java/</link>
+    <description>Recent content in Java on Simon Jürgensmeyer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</managingEditor>
+    <webMaster>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</webMaster>
+    <lastBuildDate>Sat, 17 Feb 2018 10:13:18 +0100</lastBuildDate>
+    
+	<atom:link href="https://sj14.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notification To Speech</title>
+      <link>https://sj14.github.io/post/notification-to-speech/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:18 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/post/notification-to-speech/</guid>
+      <description>Description
+At the very beginning of my CS studies, I played a bit with Android development. You achieve the most learning when you are interested in the stuff you are doing or you have own requirements. My motivation was to write an app, which can speak out incoming notifications. As a text-to-speech engine was already built into Android (e.g. navigation directions), I thought this was a challenging but possible project.</description>
+    </item>
+    
+  </channel>
+</rss>

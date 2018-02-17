@@ -3,17 +3,149 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sj14.github.io/post/anomaly-detection/</loc>
+    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/post/computer-algebra/</loc>
+    <lastmod>2018-02-17T10:13:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/post/notification-to-speech/</loc>
+    <lastmod>2018-02-17T10:13:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/</loc>
+    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/android/</loc>
+    <lastmod>2018-02-17T10:13:18+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/anomaly-detection/</loc>
+    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/bootstrap/</loc>
+    <lastmod>2018-02-17T10:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sj14.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sj14.github.io/</loc>
+    <loc>https://sj14.github.io/tags/computer-algebra-system/</loc>
+    <lastmod>2018-02-17T10:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/docker/</loc>
+    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/go/</loc>
+    <lastmod>2018-02-17T10:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/influxdb/</loc>
+    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/java/</loc>
+    <lastmod>2018-02-17T10:13:18+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/kapacitor/</loc>
+    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/keras/</loc>
+    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/post/</loc>
+    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/project/</loc>
+    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/categories/projects/</loc>
+    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/python/</loc>
+    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/real-time/</loc>
+    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sj14.github.io/tags/</loc>
+    <lastmod>2018-02-17T10:13:18+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/tensorflow/</loc>
+    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/time-series/</loc>
+    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
     <priority>0</priority>
   </url>
   
