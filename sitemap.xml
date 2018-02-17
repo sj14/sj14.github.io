@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://sj14.github.io/post/geoinformatic/</loc>
+    <lastmod>2018-02-17T10:13:17+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sj14.github.io/</loc>
     <lastmod>2018-02-17T10:13:20+01:00</lastmod>
   </url>
@@ -117,6 +122,12 @@
   <url>
     <loc>https://sj14.github.io/tags/python/</loc>
     <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/qgis/</loc>
+    <lastmod>2018-02-17T10:13:17+01:00</lastmod>
     <priority>0</priority>
   </url>
   
