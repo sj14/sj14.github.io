@@ -14,7 +14,7 @@
     
     
     <item>
-      <title>Anomaly Detection in Time Series</title>
+      <title>Real-Time Anomaly Detection in Time Series Data Streams</title>
       <link>https://sj14.github.io/post/anomaly-detection/</link>
       <pubDate>Sat, 17 Feb 2018 10:13:20 +0100</pubDate>
       <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
@@ -25,7 +25,7 @@ In the figure, you can see a collection of outliers, the algorithm is so good, i
     </item>
     
     <item>
-      <title>Computer Algebra System</title>
+      <title>Prototyping a Computer Algebra System in Go</title>
       <link>https://sj14.github.io/post/computer-algebra/</link>
       <pubDate>Sat, 17 Feb 2018 10:13:19 +0100</pubDate>
       <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
@@ -35,7 +35,7 @@ It was time for my bachelor thesis and I was thinking about the topic. At this t
     </item>
     
     <item>
-      <title>Notification To Speech</title>
+      <title>Android App: Notification To Speech</title>
       <link>https://sj14.github.io/post/notification-to-speech/</link>
       <pubDate>Sat, 17 Feb 2018 10:13:18 +0100</pubDate>
       <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
