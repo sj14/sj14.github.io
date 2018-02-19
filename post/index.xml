@@ -25,6 +25,16 @@ In the figure, you can see a collection of outliers, the algorithm is so good, i
     </item>
     
     <item>
+      <title>Android App: Call Logger and Recorder</title>
+      <link>https://sj14.github.io/post/logger-app/</link>
+      <pubDate>Sat, 17 Feb 2018 10:13:19 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/post/logger-app/</guid>
+      <description>Description
+You don&amp;rsquo;t remember what someone told you on the phone? Recording your calls made with your Android smartphone? That&amp;rsquo;s what this project was about! It was done for the course Mobile and Internet Computing. It was a really tough project because of the deadline and there is no easy way of recording calls in Android. In the end, I figured out that not all phones are capable of recording uplink and downlink.</description>
+    </item>
+    
+    <item>
       <title>Prototyping a Computer Algebra System in Go</title>
       <link>https://sj14.github.io/post/computer-algebra/</link>
       <pubDate>Sat, 17 Feb 2018 10:13:19 +0100</pubDate>
