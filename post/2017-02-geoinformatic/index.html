@@ -5,17 +5,17 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Real-Time Anomaly Detection in Time Series Data Streams</title>
-  <meta property="og:title" content="Real-Time Anomaly Detection in Time Series Data Streams" />
-  <meta name="twitter:title" content="Real-Time Anomaly Detection in Time Series Data Streams" />
+  <title>Geoinformatics and QGIS</title>
+  <meta property="og:title" content="Geoinformatics and QGIS" />
+  <meta name="twitter:title" content="Geoinformatics and QGIS" />
   <meta name="description" content="Description
-The research goal of my master thesis was to find real-time capable solutions to automatically detect anomalies in time series data streams, which are especially useful to monitor servers. I evaluated several algorithms and finally ensembled an own algorithm which meets almost all of the previously gathered requirements.
-In the figure, you can see a collection of outliers, the algorithm is so good, it is even hard to see the anomaly behind all the true positives (green dots) ;-) At the beginning of the measurements, there are two false positives (red dots)">
+One of my courses during the master studies was geoinformatics. Hm, how can I describe geoinformatics with a single sentence? Without being too accurate: Everything behind services like Google Maps or OpenStreetMap, and more :D
+During the course, we learned all the fundamentals, for example how GPS works. Another topic is the many geographic reference systems and projections. There are so many, mainly because there isn&rsquo;t a perfect solution to map a kind of a globe onto a 2-dimensional picture, thus for several use-cases, there are other approaches to deal with the distortions.">
   <meta property="og:description" content="Description
-The research goal of my master thesis was to find real-time capable solutions to automatically detect anomalies in time series data streams, which are especially useful to monitor servers. I evaluated several algorithms and finally ensembled an own algorithm which meets almost all of the previously gathered requirements.
-In the figure, you can see a collection of outliers, the algorithm is so good, it is even hard to see the anomaly behind all the true positives (green dots) ;-) At the beginning of the measurements, there are two false positives (red dots)">
+One of my courses during the master studies was geoinformatics. Hm, how can I describe geoinformatics with a single sentence? Without being too accurate: Everything behind services like Google Maps or OpenStreetMap, and more :D
+During the course, we learned all the fundamentals, for example how GPS works. Another topic is the many geographic reference systems and projections. There are so many, mainly because there isn&rsquo;t a perfect solution to map a kind of a globe onto a 2-dimensional picture, thus for several use-cases, there are other approaches to deal with the distortions.">
   <meta name="twitter:description" content="Description
-The research goal of my master thesis was to find real-time capable solutions to automatically detect anomalies in time series data streams, which are especially useful to monitor servers. …">
+One of my courses during the master studies was geoinformatics. Hm, how can I describe geoinformatics with a single sentence? Without being too accurate: Everything behind services like …">
   <meta name="author" content="Simon Jürgensmeyer"/>
   <link href='https://sj14.github.io/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://sj14.github.io/img/profile_square.jpg" />
@@ -23,12 +23,12 @@ The research goal of my master thesis was to find real-time capable solutions to
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@simjue" />
   <meta name="twitter:creator" content="@simjue" />
-  <meta property="og:url" content="https://sj14.github.io/post/anomaly-detection/" />
+  <meta property="og:url" content="https://sj14.github.io/post/2017-02-geoinformatic/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Simon Jürgensmeyer" />
 
   <meta name="generator" content="Hugo 0.37-DEV" />
-  <link rel="canonical" href="https://sj14.github.io/post/anomaly-detection/" />
+  <link rel="canonical" href="https://sj14.github.io/post/2017-02-geoinformatic/" />
   <link rel="alternate" href="https://sj14.github.io/index.xml" type="application/rss+xml" title="Simon Jürgensmeyer">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
@@ -115,12 +115,6 @@ ga('send', 'pageview');
         
           
             <li>
-              <a title="About" href="/page/about">About</a>
-            </li>
-          
-        
-          
-            <li>
               <a title="Tags" href="/tags">Tags</a>
             </li>
           
@@ -189,17 +183,17 @@ ga('send', 'pageview');
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="post-heading">
-              <h1>Real-Time Anomaly Detection in Time Series Data Streams</h1>
+              <h1>Geoinformatics and QGIS</h1>
                 
                 
                   <span class="post-meta">
   
   
-  <i class="fa fa-calendar-o"></i>&nbsp;Posted on February 17, 2018
+  <i class="fa fa-calendar-o"></i>&nbsp;Posted on February 5, 2017
   
   
   &nbsp;|&nbsp;
-  <i class="fa fa-clock-o"></i> 2 minutes (226 words)
+  <i class="fa fa-clock-o"></i> 2 minutes (361 words)
   
   
 </span>
@@ -219,24 +213,32 @@ ga('send', 'pageview');
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-        <p><img src="/img/anomaly-detection/anomaly.png" alt="example detection plot" title="example detection plot" /></p>
+        <p><img src="/img/2017-02-geoinformatic/qgis_pos.png" alt="Students Map" /></p>
 
 <p><strong>Description</strong><br />
-The research goal of my master thesis was to find real-time capable solutions to automatically detect anomalies in time series data streams, which are especially useful to monitor servers. I evaluated several algorithms and finally ensembled an own algorithm which meets almost all of the previously gathered requirements.<br />
-In the figure, you can see a collection of outliers, the algorithm is so good, it is even hard to see the anomaly behind all the true positives (green dots) ;-) At the beginning of the measurements, there are two false positives (red dots)<br />
-Very strong trends in the data set are still tricky to handle, especially at the beginning of the measurements, because it is difficult to distinguish between a normal and an anomalous change. Welcome to the topic of anomaly detection! ;-)</p>
+One of my courses during the master studies was geoinformatics. Hm, how can I describe geoinformatics with a single sentence? Without being too accurate: Everything behind services like Google Maps or OpenStreetMap, and more :D<br />
+During the course, we learned all the fundamentals, for example how GPS works. Another topic is the many geographic reference systems and projections. There are so many, mainly because there isn&rsquo;t a perfect solution to map a kind of a globe onto a 2-dimensional picture, thus for several use-cases, there are other approaches to deal with the distortions. For example, the often used Mercator projection enlarges the areas in Europe and shrinks areas near the equator.</p>
+
+<p>The course assignment consisted of two parts:<br />
+1) Creating a map for students with several points of interests.<br />
+2) Loading satellite data to classify the health of the area.</p>
+
+<p>As software, we used the open-source tool QGIS. The result of the first exercise is shown in the image at top of this site, and I was quite satisfied with the result. The main information was loaded from OpenStreetMap, but you have to visualize the data manually, and this takes some time. The biggest mistake you can do is to use too many colors which overwhelm the user.</p>
+
+<p><img src="/img/2017-02-geoinformatic/qgis_vegetation.png" alt="Students Map" /></p>
+
+<p>For the second part, satellite sensor data from a NASA satellite was loaded and I was able to show the vegetation. Unfortunately, the available data was in a low resolution but for an overview, it works.</p>
 
 <p><strong>The good</strong><br />
-I took enough time to deep dive into the topic (but it is still a huge topic!) and came up with a good algorithm, which is very very resource friendly (no loops over the whole dataset, just incremental updates).</p>
+I learned a lot of stuff, it was very interesting and I think it is a very complex topic when you have to deal with coordinates and different projection mappings. All used tools and information (QGIS, OpenStreetMap data, NASA satellite data) were freely available, which is really great.</p>
 
 <p><strong>The bad</strong><br />
-During my studies, I messed up my Python installation and only the macOS build in Python 2 worked ¯\(ツ)_/¯<br />
-As the topic was bigger than expected, the chapter about the production use case (e.g. using influxDB and kapacitor) was neglected.</p>
+I really appreciate the work done by QGIS, it is probably the best freely available geoinformation system. Unfortunately, it was kind of buggy when I used it on macOS.</p>
 
 <p><strong>Technologies used</strong><br />
-python, tensorflow, keras, docker, influxDB, kapacitor</p>
+QGIS</p>
 
-<p><a href="https://github.com/sj14/anomaly">Github Repository</a></p>
+<p>(This post was written in Feb. 2018. The project was finished in Feb. 2017 and the date of this post was set accordingly, to have a correct chronological order of all projects.)</p>
 
       </article>
 
@@ -244,9 +246,13 @@ python, tensorflow, keras, docker, influxDB, kapacitor</p>
         <ul class="pager blog-pager">
           
             <li class="previous">
-              <a href="https://sj14.github.io/post/logger-app/" data-toggle="tooltip" data-placement="top" title="Android App: Call Logger and Recorder">&larr; Previous Post</a>
+              <a href="https://sj14.github.io/post/2016-06-logger-app/" data-toggle="tooltip" data-placement="top" title="Android App: Call Logger and Recorder">&larr; Previous Post</a>
             </li>
           
+          
+            <li class="next">
+              <a href="https://sj14.github.io/post/2018-02-anomaly-detection/" data-toggle="tooltip" data-placement="top" title="Real-Time Anomaly Detection in Time Series Data Streams">Next Post &rarr;</a>
+            </li>
           
         </ul>
       

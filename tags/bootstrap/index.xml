@@ -8,17 +8,17 @@
     <language>en-us</language>
     <managingEditor>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</managingEditor>
     <webMaster>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</webMaster>
-    <lastBuildDate>Sat, 17 Feb 2018 10:13:19 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2016 10:13:19 +0100</lastBuildDate>
     
 	<atom:link href="https://sj14.github.io/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Prototyping a Computer Algebra System in Go</title>
-      <link>https://sj14.github.io/post/computer-algebra/</link>
-      <pubDate>Sat, 17 Feb 2018 10:13:19 +0100</pubDate>
+      <link>https://sj14.github.io/post/2016-02-computer-algebra/</link>
+      <pubDate>Wed, 17 Feb 2016 10:13:19 +0100</pubDate>
       <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
-      <guid>https://sj14.github.io/post/computer-algebra/</guid>
+      <guid>https://sj14.github.io/post/2016-02-computer-algebra/</guid>
       <description>Description
 It was time for my bachelor thesis and I was thinking about the topic. At this time I was totally hyped by Go (and I&amp;rsquo;m still), so I wanted to find something related. As I am always curious how things work, I wanted to research a calculator with simple algebraic operations and a web interface based on Bootstrap. Of course, this was highly inspired by all students favourite Wolfram Alpha ;-)</description>
     </item>

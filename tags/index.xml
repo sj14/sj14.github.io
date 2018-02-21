@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</managingEditor>
     <webMaster>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</webMaster>
-    <lastBuildDate>Sat, 17 Feb 2018 10:13:19 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jun 2016 10:13:19 +0100</lastBuildDate>
     
 	<atom:link href="https://sj14.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,7 @@
     <item>
       <title>Android</title>
       <link>https://sj14.github.io/tags/android/</link>
-      <pubDate>Sat, 17 Feb 2018 10:13:19 +0100</pubDate>
+      <pubDate>Mon, 13 Jun 2016 10:13:19 +0100</pubDate>
       <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
       <guid>https://sj14.github.io/tags/android/</guid>
       <description></description>
@@ -34,7 +34,7 @@
     <item>
       <title>Bootstrap</title>
       <link>https://sj14.github.io/tags/bootstrap/</link>
-      <pubDate>Sat, 17 Feb 2018 10:13:19 +0100</pubDate>
+      <pubDate>Wed, 17 Feb 2016 10:13:19 +0100</pubDate>
       <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
       <guid>https://sj14.github.io/tags/bootstrap/</guid>
       <description></description>
@@ -43,7 +43,7 @@
     <item>
       <title>Computer Algebra System</title>
       <link>https://sj14.github.io/tags/computer-algebra-system/</link>
-      <pubDate>Sat, 17 Feb 2018 10:13:19 +0100</pubDate>
+      <pubDate>Wed, 17 Feb 2016 10:13:19 +0100</pubDate>
       <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
       <guid>https://sj14.github.io/tags/computer-algebra-system/</guid>
       <description></description>
@@ -61,7 +61,7 @@
     <item>
       <title>Go</title>
       <link>https://sj14.github.io/tags/go/</link>
-      <pubDate>Sat, 17 Feb 2018 10:13:19 +0100</pubDate>
+      <pubDate>Wed, 17 Feb 2016 10:13:19 +0100</pubDate>
       <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
       <guid>https://sj14.github.io/tags/go/</guid>
       <description></description>
@@ -79,7 +79,7 @@
     <item>
       <title>Java</title>
       <link>https://sj14.github.io/tags/java/</link>
-      <pubDate>Sat, 17 Feb 2018 10:13:19 +0100</pubDate>
+      <pubDate>Mon, 13 Jun 2016 10:13:19 +0100</pubDate>
       <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
       <guid>https://sj14.github.io/tags/java/</guid>
       <description></description>
@@ -124,7 +124,7 @@
     <item>
       <title>Qgis</title>
       <link>https://sj14.github.io/tags/qgis/</link>
-      <pubDate>Sat, 17 Feb 2018 10:13:17 +0100</pubDate>
+      <pubDate>Sun, 05 Feb 2017 10:13:17 +0100</pubDate>
       <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
       <guid>https://sj14.github.io/tags/qgis/</guid>
       <description></description>

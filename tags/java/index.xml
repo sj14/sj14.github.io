@@ -8,27 +8,27 @@
     <language>en-us</language>
     <managingEditor>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</managingEditor>
     <webMaster>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</webMaster>
-    <lastBuildDate>Sat, 17 Feb 2018 10:13:19 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jun 2016 10:13:19 +0100</lastBuildDate>
     
 	<atom:link href="https://sj14.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Android App: Call Logger and Recorder</title>
-      <link>https://sj14.github.io/post/logger-app/</link>
-      <pubDate>Sat, 17 Feb 2018 10:13:19 +0100</pubDate>
+      <link>https://sj14.github.io/post/2016-06-logger-app/</link>
+      <pubDate>Mon, 13 Jun 2016 10:13:19 +0100</pubDate>
       <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
-      <guid>https://sj14.github.io/post/logger-app/</guid>
+      <guid>https://sj14.github.io/post/2016-06-logger-app/</guid>
       <description>Description
 You don&amp;rsquo;t remember what someone told you on the phone? Recording your calls made with your Android smartphone? That&amp;rsquo;s what this project was about! It was done for the course Mobile and Internet Computing. It was a really tough project because of the deadline and there is no easy way of recording calls in Android. In the end, I figured out that not all phones are capable of recording uplink and downlink.</description>
     </item>
     
     <item>
       <title>Android App: Notification To Speech</title>
-      <link>https://sj14.github.io/post/notification-to-speech/</link>
-      <pubDate>Sat, 17 Feb 2018 10:13:18 +0100</pubDate>
+      <link>https://sj14.github.io/post/2014-03-notification-to-speech/</link>
+      <pubDate>Tue, 04 Mar 2014 10:13:18 +0100</pubDate>
       <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
-      <guid>https://sj14.github.io/post/notification-to-speech/</guid>
+      <guid>https://sj14.github.io/post/2014-03-notification-to-speech/</guid>
       <description>Description
 At the very beginning of my CS studies, I played a bit with Android development. You achieve the most learning when you are interested in the stuff you are doing or you have own requirements. My motivation was to write an app, which can speak out incoming notifications. As a text-to-speech engine was already built into Android (e.g. navigation directions), I thought this was a challenging but possible project.</description>
     </item>
