@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sj14.github.io/post/2018-02-web_demo/</loc>
+    <lastmod>2018-02-24T17:58:54+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sj14.github.io/post/2018-02-anomaly-detection/</loc>
     <lastmod>2018-02-17T10:13:20+01:00</lastmod>
   </url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>https://sj14.github.io/</loc>
-    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <lastmod>2018-02-24T17:58:54+01:00</lastmod>
   </url>
   
   <url>
@@ -50,7 +55,7 @@
   
   <url>
     <loc>https://sj14.github.io/tags/bootstrap/</loc>
-    <lastmod>2016-02-17T10:13:19+01:00</lastmod>
+    <lastmod>2018-02-24T17:58:54+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,8 +77,20 @@
   </url>
   
   <url>
+    <loc>https://sj14.github.io/tags/gcp/</loc>
+    <lastmod>2018-02-24T17:58:54+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sj14.github.io/tags/go/</loc>
-    <lastmod>2016-02-17T10:13:19+01:00</lastmod>
+    <lastmod>2018-02-24T17:58:54+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/heroku/</loc>
+    <lastmod>2018-02-24T17:58:54+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -102,25 +119,37 @@
   </url>
   
   <url>
+    <loc>https://sj14.github.io/tags/mysql/</loc>
+    <lastmod>2018-02-24T17:58:54+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sj14.github.io/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://sj14.github.io/tags/postgres/</loc>
+    <lastmod>2018-02-24T17:58:54+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sj14.github.io/post/</loc>
-    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <lastmod>2018-02-24T17:58:54+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sj14.github.io/tags/project/</loc>
-    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <lastmod>2018-02-24T17:58:54+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sj14.github.io/categories/projects/</loc>
-    <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <lastmod>2018-02-24T17:58:54+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -162,6 +191,12 @@
   <url>
     <loc>https://sj14.github.io/tags/time-series/</loc>
     <lastmod>2018-02-17T10:13:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/webdev/</loc>
+    <lastmod>2018-02-24T17:58:54+01:00</lastmod>
     <priority>0</priority>
   </url>
   

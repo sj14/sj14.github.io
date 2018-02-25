@@ -5,9 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Go</title>
-  <meta property="og:title" content="Go" />
-  <meta name="twitter:title" content="Go" />
+  <title>Learning web development with Go</title>
+  <meta property="og:title" content="Learning web development with Go" />
+  <meta name="twitter:title" content="Learning web development with Go" />
+  <meta name="description" content="When I&rsquo;ve learned to program, I&rsquo;ve never focused on web development. I was more interested in old school CLI backend programs. Furthermore, PHP never attracted me so much, but was (and still is) the programming language of the web. After some time of learning Go, I realised it was used more and more for web development, as an alternative to PHP, Python, or Ruby (on Rails). After reading some articles about web programming with Go, I was thrilled: Doing web dev just felt like writing anything else in Go, no big framework necessary, just needing the fundamentals of how the websites work (and I did lack these fundamentals).">
+  <meta property="og:description" content="When I&rsquo;ve learned to program, I&rsquo;ve never focused on web development. I was more interested in old school CLI backend programs. Furthermore, PHP never attracted me so much, but was (and still is) the programming language of the web. After some time of learning Go, I realised it was used more and more for web development, as an alternative to PHP, Python, or Ruby (on Rails). After reading some articles about web programming with Go, I was thrilled: Doing web dev just felt like writing anything else in Go, no big framework necessary, just needing the fundamentals of how the websites work (and I did lack these fundamentals).">
+  <meta name="twitter:description" content="When I&rsquo;ve learned to program, I&rsquo;ve never focused on web development. I was more interested in old school CLI backend programs. Furthermore, PHP never attracted me so much, but was (and …">
   <meta name="author" content="Simon Jürgensmeyer"/>
   <link href='https://sj14.github.io/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://sj14.github.io/img/profile_square.jpg" />
@@ -15,13 +18,13 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@simjue" />
   <meta name="twitter:creator" content="@simjue" />
-  <meta property="og:url" content="https://sj14.github.io/tags/go/" />
+  <meta property="og:url" content="https://sj14.github.io/post/2018-02-web_demo/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Simon Jürgensmeyer" />
 
   <meta name="generator" content="Hugo 0.37-DEV" />
-  <link rel="canonical" href="https://sj14.github.io/tags/go/" />
-  <link rel="alternate" href="https://sj14.github.io/tags/go/index.xml" type="application/rss+xml" title="Simon Jürgensmeyer">
+  <link rel="canonical" href="https://sj14.github.io/post/2018-02-web_demo/" />
+  <link rel="alternate" href="https://sj14.github.io/index.xml" type="application/rss+xml" title="Simon Jürgensmeyer">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -164,14 +167,40 @@ ga('send', 'pageview');
 
 
     
+  
+  
+  
+
+
+
+
+  
+
   <header class="header-section ">
+    
     <div class="intro-header no-img">
+      
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="page-heading">
-              <h1>#Go</h1>
-              <hr class="small">
+            <div class="post-heading">
+              <h1>Learning web development with Go</h1>
+                
+                
+                  <span class="post-meta">
+  
+  
+  <i class="fa fa-calendar-o"></i>&nbsp;Posted on February 24, 2018
+  
+  
+  &nbsp;|&nbsp;
+  <i class="fa fa-clock-o"></i> 3 minutes (474 words)
+  
+  
+</span>
+
+
+                
             </div>
           </div>
         </div>
@@ -179,93 +208,45 @@ ga('send', 'pageview');
     </div>
   </header>
 
+
     
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <p>When I&rsquo;ve learned to program, I&rsquo;ve never focused on web development. I was more interested in old school CLI backend programs. Furthermore, PHP never attracted me so much, but was (and still is) the programming language of the web. After some time of learning Go, I realised it was used more and more for web development, as an alternative to PHP, Python, or Ruby (on Rails). After reading some articles about web programming with Go, I was thrilled: Doing web dev just felt like writing anything else in Go, no big framework necessary, just needing the fundamentals of how the websites work (and I did lack these fundamentals). But it was really cool, not being jailed in a mysterious web framework. If you need something that the standard Go library didn&rsquo;t offer (or eases the development effort), just use a third party library such as the great <a href="http://www.gorillatoolkit.org/">Gorilla Toolkits</a>, which are specialised for web development with Go. If you want to use a &ldquo;full&rdquo; web framework, you can still try <a href="https://revel.github.io/">Revel</a> or <a href="https://beego.me/">Beego</a>.</p>
+
+<p>So I learned some of the web fundamentals in Go, I tested responsiveness on the frontend with <a href="https://getbootstrap.com/">Bootstrap</a> and I felt like you could build small dynamic websites in Go now. Then a friend told me, a colleague of him is interested in building a startup, she had a business idea and needs someone who can program a web portal. I met with her and told that this is not really a small project and I have to think about it. But I was not only thinking of doing it, I already started implementing to see if I can manage it as a side project. In the end, I already had a good architecture. I&rsquo;ve used Google Cloud Platform (The Go App Engine, the MySQL database, and Cloud Storage) for hosting and got some experience with this serverless stuff.</p>
+
+<p>At the moment, the project is on hold, but I&rsquo;ve learned so much. I want to keep up the work and experiment with it, so I decided to use the basis of everything I&rsquo;ve learned for a simple demonstration site, implementing something like a simple blog or something inspired by Twitter. As GCP is too expensive for a simple demonstration site, I switched to the free tier of <a href="heroku.com">Heroku</a>. Though, I have not yet found a free data storage. Furthermore, Heroku only offers Postgres databases, but using the clean architecture (by <a href="https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html">Uncle Bob</a> and a Go example by <a href="http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/">Manuel Kiessling</a>), it is not a big deal to switch from mySQL to Postgres, and, of course, I don&rsquo;t have to care about high availability for this ;-).</p>
+
+<p>So, this is my current project where I can experiment with web-development. Here is the <a href="https://github.com/sj14/web-demo">Github repository</a>, continuous deployment has been enabled and the result is shown <a href="https://sj-web-demo.herokuapp.com/">here</a>.</p>
+
+<p><strong>Technologies used</strong><br />
+Go, GCP, MySQL, Postgres, Bootstrap, Heroku</p>
+
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://sj14.github.io/post/2018-02-anomaly-detection/" data-toggle="tooltip" data-placement="top" title="Real-Time Anomaly Detection in Time Series Data Streams">&larr; Previous Post</a>
+            </li>
+          
+          
+        </ul>
+      
+
+
+      
         
-        <div class="posts-list">
-          
-            <article class="post-preview">
-              <a href="https://sj14.github.io/post/2018-02-web_demo/">
-                <h2 class="post-title">Learning web development with Go</h2>
-
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on February 24, 2018
-              </p>
-              <div class="post-entry">
-                
-                  When I&rsquo;ve learned to program, I&rsquo;ve never focused on web development. I was more interested in old school CLI backend programs. Furthermore, PHP never attracted me so much, but was (and still is) the programming language of the web. After some time of learning Go, I realised it was used more and more for web development, as an alternative to PHP, Python, or Ruby (on Rails). After reading some articles about web programming with Go, I was thrilled: Doing web dev just felt like writing anything else in Go, no big framework necessary, just needing the fundamentals of how the websites work (and I did lack these fundamentals).
-                  <a href="https://sj14.github.io/post/2018-02-web_demo/" class="post-read-more">[Read More]</a>
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="https://sj14.github.io//tags/project/">Project</a>&nbsp;
-                  
-                    #<a href="https://sj14.github.io//tags/go/">Go</a>&nbsp;
-                  
-                    #<a href="https://sj14.github.io//tags/postgres/">Postgres</a>&nbsp;
-                  
-                    #<a href="https://sj14.github.io//tags/mysql/">MySQL</a>&nbsp;
-                  
-                    #<a href="https://sj14.github.io//tags/bootstrap/">Bootstrap</a>&nbsp;
-                  
-                    #<a href="https://sj14.github.io//tags/heroku/">Heroku</a>&nbsp;
-                  
-                    #<a href="https://sj14.github.io//tags/gcp/">GCP</a>&nbsp;
-                  
-                    #<a href="https://sj14.github.io//tags/webdev/">webdev</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-            <article class="post-preview">
-              <a href="https://sj14.github.io/post/2016-02-computer-algebra/">
-                <h2 class="post-title">Prototyping a Computer Algebra System in Go</h2>
-
-                
-              </a>
-
-              <p class="post-meta">
-                Posted on February 17, 2016
-              </p>
-              <div class="post-entry">
-                
-                  Description
-It was time for my bachelor thesis and I was thinking about the topic. At this time I was totally hyped by Go (and I&rsquo;m still), so I wanted to find something related. As I am always curious how things work, I wanted to research a calculator with simple algebraic operations and a web interface based on Bootstrap. Of course, this was highly inspired by all students favourite Wolfram Alpha ;-)
-                  <a href="https://sj14.github.io/post/2016-02-computer-algebra/" class="post-read-more">[Read More]</a>
-                
-              </div>
-
-              
-                <span class="post-meta">
-                  
-                    #<a href="https://sj14.github.io//tags/project/">Project</a>&nbsp;
-                  
-                    #<a href="https://sj14.github.io//tags/computer-algebra-system/">Computer Algebra System</a>&nbsp;
-                  
-                    #<a href="https://sj14.github.io//tags/go/">Go</a>&nbsp;
-                  
-                    #<a href="https://sj14.github.io//tags/bootstrap/">Bootstrap</a>&nbsp;
-                  
-                </span>
-              
-
-            </article>
-          
-        </div>
         
-      </div>
+      
+
     </div>
   </div>
+</div>
 
     <footer>
   <div class="container">
@@ -348,7 +329,7 @@ It was time for my bachelor thesis and I was thinking about the topic. At this t
           
           <li>
             
-            <a href="https://sj14.github.io/tags/go/index.xml" title="RSS">
+            <a href="https://sj14.github.io/index.xml" title="RSS">
             
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>

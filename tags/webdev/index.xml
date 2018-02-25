@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Go on Simon Jürgensmeyer</title>
-    <link>https://sj14.github.io/tags/go/</link>
-    <description>Recent content in Go on Simon Jürgensmeyer</description>
+    <title>Webdev on Simon Jürgensmeyer</title>
+    <link>https://sj14.github.io/tags/webdev/</link>
+    <description>Recent content in Webdev on Simon Jürgensmeyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</managingEditor>
     <webMaster>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</webMaster>
     <lastBuildDate>Sat, 24 Feb 2018 17:58:54 +0100</lastBuildDate>
     
-	<atom:link href="https://sj14.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sj14.github.io/tags/webdev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
       <guid>https://sj14.github.io/post/2018-02-web_demo/</guid>
       <description>When I&amp;rsquo;ve learned to program, I&amp;rsquo;ve never focused on web development. I was more interested in old school CLI backend programs. Furthermore, PHP never attracted me so much, but was (and still is) the programming language of the web. After some time of learning Go, I realised it was used more and more for web development, as an alternative to PHP, Python, or Ruby (on Rails). After reading some articles about web programming with Go, I was thrilled: Doing web dev just felt like writing anything else in Go, no big framework necessary, just needing the fundamentals of how the websites work (and I did lack these fundamentals).</description>
-    </item>
-    
-    <item>
-      <title>Prototyping a Computer Algebra System in Go</title>
-      <link>https://sj14.github.io/post/2016-02-computer-algebra/</link>
-      <pubDate>Wed, 17 Feb 2016 10:13:19 +0100</pubDate>
-      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
-      <guid>https://sj14.github.io/post/2016-02-computer-algebra/</guid>
-      <description>Description
-It was time for my bachelor thesis and I was thinking about the topic. At this time I was totally hyped by Go (and I&amp;rsquo;m still), so I wanted to find something related. As I am always curious how things work, I wanted to research a calculator with simple algebraic operations and a web interface based on Bootstrap. Of course, this was highly inspired by all students favourite Wolfram Alpha ;-)</description>
     </item>
     
   </channel>
