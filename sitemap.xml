@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://sj14.github.io/post/2015-03-port-scanner/</loc>
+    <lastmod>2015-03-25T10:13:18+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sj14.github.io/post/2014-03-notification-to-speech/</loc>
     <lastmod>2014-03-04T10:13:18+01:00</lastmod>
   </url>
@@ -125,7 +130,19 @@
   </url>
   
   <url>
+    <loc>https://sj14.github.io/tags/networking/</loc>
+    <lastmod>2015-03-25T10:13:18+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sj14.github.io/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sj14.github.io/tags/port-scanner/</loc>
+    <lastmod>2015-03-25T10:13:18+01:00</lastmod>
     <priority>0</priority>
   </url>
   

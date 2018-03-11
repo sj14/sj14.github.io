@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Port Scanner on Simon Jürgensmeyer</title>
+    <link>https://sj14.github.io/tags/port-scanner/</link>
+    <description>Recent content in Port Scanner on Simon Jürgensmeyer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</managingEditor>
+    <webMaster>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</webMaster>
+    <lastBuildDate>Wed, 25 Mar 2015 10:13:18 +0100</lastBuildDate>
+    
+	<atom:link href="https://sj14.github.io/tags/port-scanner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Writing a Port Scanner</title>
+      <link>https://sj14.github.io/post/2015-03-port-scanner/</link>
+      <pubDate>Wed, 25 Mar 2015 10:13:18 +0100</pubDate>
+      <author>Simon.Juergensmeyer@gmail.com (Simon Jürgensmeyer)</author>
+      <guid>https://sj14.github.io/post/2015-03-port-scanner/</guid>
+      <description>Description
+I&amp;rsquo;m always a very curious person, especially when it comes to IT and tech. When I ask myself how does something work, I want to figure out the solution. The same happened to me when I asked myself &amp;ldquo;how do port scanners work&amp;rdquo;? There was so much magic inside, but as always, when you get the idea behind it, it is anything but magic :-)
+Here I want to describe the very simple concept of a port scanner I&amp;rsquo;ve written in Go.</description>
+    </item>
+    
+  </channel>
+</rss>
